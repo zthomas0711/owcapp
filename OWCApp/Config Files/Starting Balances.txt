@@ -1,0 +1,6 @@
+Elect Ladies: 100.0, 100
+Christian Education: 200, 100
+Missions: 50, 100
+Brotherhood: 50, 200
+Youth: 20, 100
+General: 300, 1000
